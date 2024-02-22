@@ -2,16 +2,16 @@
 displayName: "Java Mod Template"
 
 #the internal name of your mod
-name: "example-java-mod"
+name: "ModT1"
 
 #your name
-author: "You"
+author: "Gwx"
 
 #the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: "GWX.MT1"
 
 #the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+description: "单位跟随"
 
 #the mod version
 version: 1.0
